@@ -1,22 +1,25 @@
-# Hi there , I'm Mayar Hesham
+## Mayar Hesham — AI Engineer
 
-- Pharmacist turned AI & Data Science enthusiast  
-- Exploring ML, AI, and automation projects in Healthcare & beyond  
-- Strong skills: Python, Pandas, NumPy, scikit-learn, TensorFlow, OpenCV  
-- Passionate about building **practical AI applications** that solve real-world problems
+Building production AI systems at the intersection of healthcare and LLM orchestration.
 
-## 🔹 Featured Projects
-- **[Drug Identifier](https://github.com/mayar1511/drug-identifier)**: Identify pharmaceutical drugs from images using OCR + AI.
-- **[Customer Churn Prediction](https://github.com/mayar1511/customer-churn-knn)**: KNN model predicting telecom customer churn.
-- **[AI Automation Tools]**: Build AI-driven automation pipelines with Python & n8n.
+Currently at **LyRise**: multi-agent LangGraph orchestration (11 nodes, conditional routing, 
+human-in-the-loop), hybrid RAG with pgvector + BM25 + RRF fusion, 3-layer LLM output 
+validation, multi-tenant FastAPI, Cloud Run deployment.
 
-## Contact Me
+Background in pharmacy (BSc, Cairo University) — I bring domain credibility to healthcare AI 
+that most AI engineers can't.
+
+---
+
+**Building**
+- Clinical Drug Interaction Agent — LangGraph + hybrid RAG + eval harness · [demo](#) · [repo](#)
+- Clinical Guidelines MCP Server — Tool-use protocol for healthcare data · [pip install](#) · [repo](#)
+
+**Stack**
+LangGraph · LangChain · pgvector · FastAPI · Docker · Cloud Run · Claude API · Gemini/Vertex AI · Python
+
+**Contact**
+
 - Email: mayarhesham1511@gmail.com  
 - LinkedIn: [mayar-hesham](https://www.linkedin.com/in/mayar-hesham/)
 
-## Skills
-- Python, Jupyter Notebook, Pandas, NumPy  
-- Machine Learning: scikit-learn, TensorFlow, Keras  
-- OCR & Image Processing: OpenCV, pytesseract  
-- Automation & Scripting: n8n, Excel, APIs  
-- Soft skills: Problem-solving, project planning
